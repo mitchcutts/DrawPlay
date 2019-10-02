@@ -1,0 +1,35 @@
+commit 36bdcd859d6f21b48e2feef091d96fef41c71166
+Author: mitchcutts <mcutts@mymail.mines.edu>
+Date:   Wed Oct 2 14:41:05 2019 -0600
+
+    Reversed prior commit's actions (restored eye separation to original value). Also changed meow string to hail the mighty feline
+
+commit 8ebbd862455018fe68d4f3fce24603df64e48dbb
+Author: JaredHam777 <jaredghamilton1998@gmail.com>
+Date:   Wed Oct 2 14:35:06 2019 -0600
+
+    increased eye separation
+
+commit c80ab9c5c09d0255797c5dfc7da1ea9a07012f1d
+Author: mitchcutts <mcutts@mymail.mines.edu>
+Date:   Wed Oct 2 14:33:32 2019 -0600
+
+    Needed to make the cat's head bigger to accomodate eye height change
+
+commit ec1ad361564e2e5c200dd70fa28d697b5b93b473
+Author: JaredHam777 <jaredghamilton1998@gmail.com>
+Date:   Wed Oct 2 14:31:40 2019 -0600
+
+    suppressed warnings, changed eye height
+
+commit 211a75e4240a73b05456192408d657a6e5bca4c9
+Author: Mitch <mcutts@mines.edu>
+Date:   Wed Oct 2 14:09:20 2019 -0600
+
+    First Commit to Local Repo
+
+commit ce55f865be34dee3dbc4322db0e0f1435d569fe3
+Author: mitchcutts <37127687+mitchcutts@users.noreply.github.com>
+Date:   Wed Oct 2 13:57:37 2019 -0600
+
+    Initial commit
